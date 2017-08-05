@@ -1,0 +1,2 @@
+# gengleiming_config
+gengleiming项目部署在服务器上所用到的所有配置，服务器上的配置文件会通过软链的形式链接到此项目
